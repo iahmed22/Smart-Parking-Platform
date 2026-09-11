@@ -19,3 +19,8 @@ Week One:
     1.	
     Postcondition: 
     Kept/Changed: Used to understand how to write my use cases
+
+    AI Model used: University of Houston Copilot (Private)
+    Used For: Research
+    Prompt: What are some popular platforms that help with parking
+    Kept/Changed: Researched top 5 parking apps
