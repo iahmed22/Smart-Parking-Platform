@@ -1,5 +1,21 @@
 Week One:
-AI Model used: University of Houston Copilot (Private)
-Used For:
-Prompt:
-Kept/Changed:
+    AI Model used: University of Houston Copilot (Private)
+    Used For: Proofread & Grammar
+    Prompt: Proofread this section for grammar and phrasing and show me what you fixed
+    Kept/Changed: Kept any changes with grammar fixes in my paragraphs
+
+    AI Model used: University of Houston Copilot (Private)
+    Used For: Functional Requirements
+    Prompt: What is the difference between functional and nonfunctional requirements and give me an example 
+    Kept/Changed: Used to understand the difference between the two
+
+    AI Model used: University of Houston Copilot (Private)
+    Used For: Use cases
+    Prompt: Show me how to format and write this use case
+    Title: Creating User Account
+    Actor: Driver
+    Precondition: 
+    Steps:
+    1.	
+    Postcondition: 
+    Kept/Changed: Used to understand how to write my use cases
