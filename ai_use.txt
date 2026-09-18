@@ -24,3 +24,9 @@ Week One:
     Used For: Research
     Prompt: What are some popular platforms that help with parking
     Kept/Changed: Researched top 5 parking apps
+
+Week Two:
+    AI Model used: University of Houston Copilot (Private)
+    Used For: Research
+    Prompt: What would a good template for a WBS look like in a professional project document
+    Kept/Changed: Used the template hierarchy it provided me
