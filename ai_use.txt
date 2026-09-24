@@ -32,4 +32,7 @@ Week Two:
     Kept/Changed: Used the template hierarchy it provided me
 
 Week Three:
-
+    AI Model used: University of Houston Copilot (Private)
+    Used For: Research
+    Prompt: What are examples of professional label and ID's for a Trello board?
+    Kept/Changed: Used the ID prefixes and category names it provided me
