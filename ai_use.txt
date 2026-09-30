@@ -36,3 +36,14 @@ Week Three:
     Used For: Research
     Prompt: What are examples of professional label and ID's for a Trello board?
     Kept/Changed: Used the ID prefixes and category names it provided me
+
+Week Three:
+    AI Model used: University of Houston Copilot (Private)
+    Used For: Research
+    Prompt: What are professional communcation methods for a communication plan and how do they look in a professional document.
+    Kept/Changed: Kept the template it gave me and learned the methods for communcation
+
+    AI Model used: University of Houston Copilot (Private)
+    Used For: Research
+    Prompt: What do these categories in a filled risk register look like? ID, Desc, Probability, Impact, Owner, Response strategey, Status/Notes
+    Kept/Changed: Used the example to format my risk register
