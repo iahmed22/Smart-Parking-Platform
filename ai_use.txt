@@ -37,7 +37,7 @@ Week Three:
     Prompt: What are examples of professional label and ID's for a Trello board?
     Kept/Changed: Used the ID prefixes and category names it provided me
 
-Week Three:
+Week Four:
     AI Model used: University of Houston Copilot (Private)
     Used For: Research
     Prompt: What are professional communcation methods for a communication plan and how do they look in a professional document.
