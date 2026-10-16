@@ -5,3 +5,4 @@ Week Two: WBS, Timeline, and Gantt Chart
 Week Three: Trello
 Week Four: Risk identification, Risk Register, Communcation Plan
 Week Five: Roles and Resources, Bottom-Up resource/cost plan, RACI Matrix
+Week Six: Updates to SRS, Budget, Risks, Document Cleanups
