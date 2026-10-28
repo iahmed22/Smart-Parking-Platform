@@ -47,3 +47,9 @@ Week Four:
     Used For: Research
     Prompt: What do these categories in a filled risk register look like? ID, Desc, Probability, Impact, Owner, Response strategey, Status/Notes
     Kept/Changed: Used the example to format my risk register
+
+Week Six:
+    AI Model used: University of Houston Copilot (Private)
+    Used For: Research
+    Prompt: Am I missing any information from my charters I created, if so, dont give me the info just tell me what I can improve
+    Kept/Changed: Made tweaks to my templates depending on the feedback such as metrics and specifying on certain information
